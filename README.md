@@ -13,7 +13,9 @@ The environment contains a guided Tic-Tac-Toe project, designed as a companion t
 5. Select "VS Code Browser" as your editor.
 
 ## Launch Environment
+
 [Launch in Gitpod] (https://gitpod.io/#https://github.com/Duongqs/EMURGO-Academy-Haskell)
+
 ## Build Your Project
 
 As you attend the live sessions, complete each of the assignments in the `/assignments` directory, making changes to the associated `.hs` files in the `/solutions` directory.
