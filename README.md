@@ -7,11 +7,13 @@ The environment contains a guided Tic-Tac-Toe project, designed as a companion t
 ## Create Your Environment
 
 1. Fork this repository
-2. Copy the link to your new repository and prefix it with "https://gitpod.io/#" in your browser
+2. Copy the link to your new repository and prefix it with "https://gitpod.io/#" in your browser, ex: "https://gitpod.io/#https://github.com/Duongqs/EMURGO-Academy-Haskell"
 3. Click `Continue with GitHub` and `Authorize gitpod-io`
 4. Wait for the environment to build. This can take a while the first time.
 5. Select "VS Code Browser" as your editor.
 
+## Launch Environment
+[Launch in Gitpod] (https://gitpod.io/#https://github.com/Duongqs/EMURGO-Academy-Haskell)
 ## Build Your Project
 
 As you attend the live sessions, complete each of the assignments in the `/assignments` directory, making changes to the associated `.hs` files in the `/solutions` directory.
