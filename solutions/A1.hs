@@ -6,15 +6,17 @@ import Data.Char (toUpper)
 
 -- Q#01
 
-_SIZE_ = undefined
+_SIZE_ = 3 :: Int
 
 -- Q#02
 
-_DISPLAY_LOGO_ = undefined
+_DISPLAY_LOGO_ = True
 
 -- Q#03
 
-convertRowIndex = undefined
+
+convertRowIndex x = fromEnum (toUpper x ) - 65::Int
+
 
 -- Q#04
 

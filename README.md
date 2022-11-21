@@ -14,7 +14,7 @@ The environment contains a guided Tic-Tac-Toe project, designed as a companion t
 
 ## Launch Environment
 
-[Launch in Gitpod] (https://gitpod.io/#https://github.com/Duongqs/EMURGO-Academy-Haskell)
+[Launch in Gitpod](https://gitpod.io/#https://github.com/Duongqs/EMURGO-Academy-Haskell)
 
 ## Build Your Project
 
